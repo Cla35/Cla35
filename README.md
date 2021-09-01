@@ -1,17 +1,10 @@
-name: Latest stack overflow activity
-on:
-  schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
-jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/4214976"
+## Welcome
+Back-end developer for more than 3 years focused on corporate systems currently working as a Freelancer for the countries Brazil, Europe, United States, England, Time zone is no barrier
+![lightgrey](https://shields.io/badge/-Java-lightgrey) ![brightgreen](https://shields.io/badge/-Node.js-brightgreen) ![green](https://shields.io/badge/-React-green) ![critical](https://shields.io/badge/-Kotlin-critical) ![important](https://shields.io/badge/-SpringBoot-important) ![9cf](https://shields.io/badge/-Docker,Kubernetes-9cf) ![ff69b4](https://shields.io/badge/-RESTful-ff69b4)
+![blueviolet](https://shields.io/badge/-CQRS,SAGA-blueviolet) ![success](https://shields.io/badge/-MongoDB-success) ![ff69b4](https://shields.io/badge/-AxonFramework-ff69b4) ![important](https://shields.io/badge/-RESTAPI,Security,Auth,JWT,OAuth2.0,OIDC,MFA,HMAC-important)
+
+ **Microservices architecture** 
+There is a team of developers working on the app.
+New team members must become productive quickly
+The app should be easy to understand and modify.
+> **Email:** silvafragao1@gmail.com **Stackoverflow** https://stackoverflow.com/users/16664337/claudio-fragao
