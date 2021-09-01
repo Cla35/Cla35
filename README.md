@@ -1,14 +1,17 @@
-name: Latest blog post workflow
+name: Latest stack overflow activity
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/4214976"
