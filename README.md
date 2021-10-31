@@ -1,7 +1,10 @@
 ## Welcome
-Back-end developer for more than 3 years focused on corporate systems currently working as a Freelancer for the countries Brazil, Europe, United States, England, Time zone is no barrier
-![lightgrey](https://shields.io/badge/-Java-lightgrey) ![brightgreen] ![green](https://shields.io/badge/-React-green) ![critical] ![important](https://shields.io/badge/-SpringBoot-important) ![9cf](https://shields.io/badge/-Docker,Kubernetes-9cf) ![ff69b4](https://shields.io/badge/-RESTful-ff69b4)
-![blueviolet](https://shields.io/badge/-CQRS,SAGA-blueviolet) ![success](https://shields.io/badge/-MongoDB-success) ![ff69b4](https://shields.io/badge/-AxonFramework-ff69b4) ![important](https://shields.io/badge/-RESTAPI,Security,Auth,JWT,OAuth2.0,OIDC,MFA,HMAC-important)
+Claudio is a back-end developer with experience building scalable RESTful web architecture,
+has successfully created highly distributed systems, it quickly adapts to teamwork,
+I feel comfortable working Remotely in any time zone in the USA, England, Brazil or Europe
+Willing to relocate: Anywhere
+![Tackling-Reactive-Programming-in-Spring5](https://user-images.githubusercontent.com/20890022/139586853-21549526-abe5-4347-b5eb-6e5b516d62bc.png)
+
 
  **Microservices architecture** 
 There is a team of developers working on the app.
