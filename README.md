@@ -3,7 +3,7 @@ Claudio is a back-end developer with experience building scalable RESTful web ar
 has successfully created highly distributed systems, it quickly adapts to teamwork,
 I feel comfortable working Remotely in any time zone in the USA, England, Brazil or Europe
 Willing to relocate: Anywhere
-![Tackling-Reactive-Programming-in-Spring5](https://user-images.githubusercontent.com/20890022/139586853-21549526-abe5-4347-b5eb-6e5b516d62bc.png)
+![957-9578490_spring-ecosystem-spring-tutorial-edureka-spring-framework](https://user-images.githubusercontent.com/20890022/139587070-8c60ca40-3418-47dd-bc73-e64efd68a2ae.png)
 
 
  **Microservices architecture** 
